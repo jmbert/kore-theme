@@ -16,6 +16,9 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Kore Theme-color-theme.json"
       }
-    ]
+    ],
+    "fileExtensions": {
+      "kas": "images/kas_icon.png"
+    }
   }
 }
